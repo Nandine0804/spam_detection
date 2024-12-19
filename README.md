@@ -1,1 +1,2 @@
 # spam_detection
+Spam classification is identifying and filtering unwanted messages from legitimate ones. Utilizing machine learning algorithms, it analyzes content, metadata, and behavioral patterns to categorize emails. Evaluation metrics like accuracy, precision, and recall help assess its effectiveness. Continuous updates and feature engineering enhance its performance, ensuring users receive relevant communications.
